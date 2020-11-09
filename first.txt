@@ -1,2 +1,6 @@
 test
 変更をコミットする。
+
+git add
+git commit -v
+git rm
